@@ -1,12 +1,41 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE5F633-56FB-458E-811D-D1B057E33647}|LabFinalQ2\\LabFinalQ2.csproj|e:\\blazor apps\\lab final\\labfinalq2\\labfinalq2\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AE5F633-56FB-458E-811D-D1B057E33647}|LabFinalQ2\\LabFinalQ2.csproj|solutionrelative:labfinalq2\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.razor",
+              "DocumentMoniker": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "LabFinalQ2\\Pages\\Index.razor",
+              "ToolTip": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\Pages\\Index.razor",
+              "RelativeToolTip": "LabFinalQ2\\Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T19:02:00.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

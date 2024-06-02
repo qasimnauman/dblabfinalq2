@@ -1,0 +1,12 @@
+E:\Blazor Apps\Lab Final\LabFinalQ2\DataModels\bin\Debug\net6.0\DataModels.deps.json
+E:\Blazor Apps\Lab Final\LabFinalQ2\DataModels\bin\Debug\net6.0\DataModels.dll
+E:\Blazor Apps\Lab Final\LabFinalQ2\DataModels\bin\Debug\net6.0\DataModels.pdb
+E:\Blazor Apps\Lab Final\LabFinalQ2\DataModels\obj\Debug\net6.0\DataModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\Blazor Apps\Lab Final\LabFinalQ2\DataModels\obj\Debug\net6.0\DataModels.AssemblyInfoInputs.cache
+E:\Blazor Apps\Lab Final\LabFinalQ2\DataModels\obj\Debug\net6.0\DataModels.AssemblyInfo.cs
+E:\Blazor Apps\Lab Final\LabFinalQ2\DataModels\obj\Debug\net6.0\DataModels.csproj.CoreCompileInputs.cache
+E:\Blazor Apps\Lab Final\LabFinalQ2\DataModels\obj\Debug\net6.0\DataModels.sourcelink.json
+E:\Blazor Apps\Lab Final\LabFinalQ2\DataModels\obj\Debug\net6.0\DataModels.dll
+E:\Blazor Apps\Lab Final\LabFinalQ2\DataModels\obj\Debug\net6.0\refint\DataModels.dll
+E:\Blazor Apps\Lab Final\LabFinalQ2\DataModels\obj\Debug\net6.0\DataModels.pdb
+E:\Blazor Apps\Lab Final\LabFinalQ2\DataModels\obj\Debug\net6.0\ref\DataModels.dll
