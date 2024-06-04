@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dvivIWxTXwBdCkfhUZtHxIIAO+Wa+YHScUI5eway1Bk=",
+  "Hash": "FiS/4DTxdy1/yHifYLHveMkxO2Cqqjo+nSj4hunNnwQ=",
   "Source": "LabFinalQ2",
   "BasePath": "_content/LabFinalQ2",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "LabFinalQ2\\wwwroot",
       "Source": "LabFinalQ2",
-      "ContentRoot": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\wwwroot\\",
+      "ContentRoot": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\wwwroot\\",
       "BasePath": "_content/LabFinalQ2",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\LabFinalQ2.styles.css",
+      "Identity": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\LabFinalQ2.styles.css",
       "SourceId": "LabFinalQ2",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/LabFinalQ2",
       "RelativePath": "LabFinalQ2.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\LabFinalQ2.styles.css"
+      "OriginalItemSpec": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\LabFinalQ2.styles.css"
     },
     {
-      "Identity": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\LabFinalQ2.bundle.scp.css",
+      "Identity": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\LabFinalQ2.bundle.scp.css",
       "SourceId": "LabFinalQ2",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/LabFinalQ2",
       "RelativePath": "LabFinalQ2.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\LabFinalQ2.bundle.scp.css"
+      "OriginalItemSpec": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\LabFinalQ2.bundle.scp.css"
     },
     {
-      "Identity": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "LabFinalQ2",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\wwwroot\\",
+      "ContentRoot": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\wwwroot\\",
       "BasePath": "_content/LabFinalQ2",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "LabFinalQ2",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\wwwroot\\",
+      "ContentRoot": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\wwwroot\\",
       "BasePath": "_content/LabFinalQ2",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "LabFinalQ2",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\wwwroot\\",
+      "ContentRoot": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\wwwroot\\",
       "BasePath": "_content/LabFinalQ2",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "LabFinalQ2",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\wwwroot\\",
+      "ContentRoot": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\wwwroot\\",
       "BasePath": "_content/LabFinalQ2",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "LabFinalQ2",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\wwwroot\\",
+      "ContentRoot": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\wwwroot\\",
       "BasePath": "_content/LabFinalQ2",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "LabFinalQ2",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\wwwroot\\",
+      "ContentRoot": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\wwwroot\\",
       "BasePath": "_content/LabFinalQ2",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "LabFinalQ2",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\wwwroot\\",
+      "ContentRoot": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\wwwroot\\",
       "BasePath": "_content/LabFinalQ2",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "LabFinalQ2",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\wwwroot\\",
+      "ContentRoot": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\wwwroot\\",
       "BasePath": "_content/LabFinalQ2",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "LabFinalQ2",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\wwwroot\\",
+      "ContentRoot": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\wwwroot\\",
       "BasePath": "_content/LabFinalQ2",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "LabFinalQ2",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\wwwroot\\",
+      "ContentRoot": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\wwwroot\\",
       "BasePath": "_content/LabFinalQ2",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "LabFinalQ2",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\wwwroot\\",
+      "ContentRoot": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\wwwroot\\",
       "BasePath": "_content/LabFinalQ2",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\wwwroot\\css\\site.css",
+      "Identity": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\wwwroot\\css\\site.css",
       "SourceId": "LabFinalQ2",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\wwwroot\\",
+      "ContentRoot": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\wwwroot\\",
       "BasePath": "_content/LabFinalQ2",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\wwwroot\\favicon.ico",
+      "Identity": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\wwwroot\\favicon.ico",
       "SourceId": "LabFinalQ2",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\wwwroot\\",
+      "ContentRoot": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\wwwroot\\",
       "BasePath": "_content/LabFinalQ2",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",

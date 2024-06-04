@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\DataModels\\DataModels.csproj",
+      "projectUniqueName": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\DataModels\\DataModels.csproj",
       "projectName": "DataModels",
-      "projectPath": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\DataModels\\DataModels.csproj",
+      "projectPath": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\DataModels\\DataModels.csproj",
       "packagesPath": "C:\\Users\\Qasim Nauman\\.nuget\\packages\\",
-      "outputPath": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\DataModels\\obj\\",
+      "outputPath": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\DataModels\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Qasim Nauman\\AppData\\Roaming\\NuGet\\NuGet.Config",

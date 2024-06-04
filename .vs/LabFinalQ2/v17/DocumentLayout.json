@@ -1,10 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\",
+  "WorkspaceRootPath": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7AE5F633-56FB-458E-811D-D1B057E33647}|LabFinalQ2\\LabFinalQ2.csproj|e:\\blazor apps\\lab final\\labfinalq2\\labfinalq2\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7AE5F633-56FB-458E-811D-D1B057E33647}|LabFinalQ2\\LabFinalQ2.csproj|e:\\blazor apps\\lab final\\dblabfinal\\labfinalq2\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7AE5F633-56FB-458E-811D-D1B057E33647}|LabFinalQ2\\LabFinalQ2.csproj|solutionrelative:labfinalq2\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057EA59A-2FCD-4BCE-AA0F-4823DC59FFC3}|DataModels\\DataModels.csproj|e:\\blazor apps\\lab final\\dblabfinal\\datamodels\\billingsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057EA59A-2FCD-4BCE-AA0F-4823DC59FFC3}|DataModels\\DataModels.csproj|solutionrelative:datamodels\\billingsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057EA59A-2FCD-4BCE-AA0F-4823DC59FFC3}|DataModels\\DataModels.csproj|e:\\blazor apps\\lab final\\dblabfinal\\datamodels\\doctorsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057EA59A-2FCD-4BCE-AA0F-4823DC59FFC3}|DataModels\\DataModels.csproj|solutionrelative:datamodels\\doctorsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057EA59A-2FCD-4BCE-AA0F-4823DC59FFC3}|DataModels\\DataModels.csproj|e:\\blazor apps\\lab final\\dblabfinal\\datamodels\\patientmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057EA59A-2FCD-4BCE-AA0F-4823DC59FFC3}|DataModels\\DataModels.csproj|solutionrelative:datamodels\\patientmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057EA59A-2FCD-4BCE-AA0F-4823DC59FFC3}|DataModels\\DataModels.csproj|e:\\blazor apps\\lab final\\dblabfinal\\datamodels\\admissionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057EA59A-2FCD-4BCE-AA0F-4823DC59FFC3}|DataModels\\DataModels.csproj|solutionrelative:datamodels\\admissionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87725D50-E693-4187-9959-2C6221AB2A1C}|DataControllers\\DataControllers.csproj|e:\\blazor apps\\lab final\\dblabfinal\\datacontrollers\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87725D50-E693-4187-9959-2C6221AB2A1C}|DataControllers\\DataControllers.csproj|solutionrelative:datacontrollers\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +34,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BillingsModel.cs",
+              "DocumentMoniker": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\DataModels\\BillingsModel.cs",
+              "RelativeDocumentMoniker": "DataModels\\BillingsModel.cs",
+              "ToolTip": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\DataModels\\BillingsModel.cs",
+              "RelativeToolTip": "DataModels\\BillingsModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T10:12:33.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorsModel.cs",
+              "DocumentMoniker": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\DataModels\\DoctorsModel.cs",
+              "RelativeDocumentMoniker": "DataModels\\DoctorsModel.cs",
+              "ToolTip": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\DataModels\\DoctorsModel.cs",
+              "RelativeToolTip": "DataModels\\DoctorsModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T10:11:17.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientModel.cs",
+              "DocumentMoniker": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\DataModels\\PatientModel.cs",
+              "RelativeDocumentMoniker": "DataModels\\PatientModel.cs",
+              "ToolTip": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\DataModels\\PatientModel.cs",
+              "RelativeToolTip": "DataModels\\PatientModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T10:10:28.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdmissionModel.cs",
+              "DocumentMoniker": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\DataModels\\AdmissionModel.cs",
+              "RelativeDocumentMoniker": "DataModels\\AdmissionModel.cs",
+              "ToolTip": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\DataModels\\AdmissionModel.cs",
+              "RelativeToolTip": "DataModels\\AdmissionModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T10:08:24.307Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\DataControllers\\DBHelper.cs",
+              "RelativeDocumentMoniker": "DataControllers\\DBHelper.cs",
+              "ToolTip": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\DataControllers\\DBHelper.cs",
+              "RelativeToolTip": "DataControllers\\DBHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T10:07:30.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.razor",
-              "DocumentMoniker": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\Pages\\Index.razor",
+              "DocumentMoniker": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "LabFinalQ2\\Pages\\Index.razor",
-              "ToolTip": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\Pages\\Index.razor",
+              "ToolTip": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\Pages\\Index.razor",
               "RelativeToolTip": "LabFinalQ2\\Pages\\Index.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-02T19:02:00.435Z",
               "EditorCaption": ""

@@ -510,11 +510,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\LabFinalQ2.csproj",
+      "projectUniqueName": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\LabFinalQ2.csproj",
       "projectName": "LabFinalQ2",
-      "projectPath": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\LabFinalQ2.csproj",
+      "projectPath": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\LabFinalQ2.csproj",
       "packagesPath": "C:\\Users\\Qasim Nauman\\.nuget\\packages\\",
-      "outputPath": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\LabFinalQ2\\obj\\",
+      "outputPath": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\LabFinalQ2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Qasim Nauman\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -531,11 +531,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\DataControllers\\DataControllers.csproj": {
-              "projectPath": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\DataControllers\\DataControllers.csproj"
+            "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\DataControllers\\DataControllers.csproj": {
+              "projectPath": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\DataControllers\\DataControllers.csproj"
             },
-            "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\DataModels\\DataModels.csproj": {
-              "projectPath": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\DataModels\\DataModels.csproj"
+            "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\DataModels\\DataModels.csproj": {
+              "projectPath": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\DataModels\\DataModels.csproj"
             }
           }
         }

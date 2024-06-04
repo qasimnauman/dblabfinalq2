@@ -2,12 +2,71 @@
 
 <PageTitle>Index</PageTitle>
 
-<h1>Hello, world!</h1>
+<h2>Form to Add Billing</h2>
+<EditForm Model="bmodel">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
 
-Welcome to your new app.
+    <label>BillID</label>
+    <InputNumber @bind-Value="bmodel.bid" />
 
-<SurveyPrompt Title="How is Blazor working for you?" />
+    <br />
+    <label>AdmissionID</label>
+    <InputNumber @bind-Value="bmodel.aid" />
+    <br />
+
+    <label>BillDate</label>
+    <InputDate @bind-Value="bmodel.bdate" />
+    <br />
+
+    <label>BillAmount</label>
+    <InputNumber @bind-Value="bmodel.amount" />
+
+    <button type="submit">Submit</button>
+</EditForm>
+
+
+<h2>Form to Admit Patient</h2>
+<EditForm Model="adm">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <label>Admission ID</label>
+    <InputNumber @bind-Value="adm.adid" />
+
+    <br />
+    <label>Patient ID</label>
+    <InputSelect @bind-Value="adm.pid">
+        @foreach(var item in patlist)
+        {
+            <option value="@item.pid">@item.pname</option>
+        }
+    </InputSelect>
+    <br />
+
+    <label>Doctor ID</label>
+    <InputSelect @bind-Value="adm.did">
+        @foreach (var item in doclist)
+        {
+            <option value="@item.did">@item.dname</option>
+        }
+    </InputSelect>
+    <br />
+
+    <label>Admin Date</label>
+    <InputDate @bind-Value="adm.Adate" />
+    <br />
+    
+    <label>Room No</label>
+    <InputNumber @bind-Value="adm.Rno" />
+
+    <button type="submit">Submit</button>
+</EditForm>
 
 @code{
-
+    BillingModel bmodel = new BillingModel();
+    AdmissionModel adm = new AdmissionModel();
+    List<AdmissionModel> admlist = new List<AdmissionModel>();
+    List<PatientModel> patlist = new List<PatientModel>();
+    List<DoctorsModel> doclist = new List<DoctorsModel>();
 }

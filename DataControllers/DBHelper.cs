@@ -7,7 +7,7 @@ namespace DataControllers
     {
         public static SqlConnection GetConnection()
         {
-            SqlConnection connection = new SqlConnection("Data Source=QASIM-DESKTOP\\SQLEXPRESS;Initial Catalog=VPLabFinalQ2;Integrated Security=True");
+            SqlConnection connection = new SqlConnection("Data Source=DESKTOP-D4M3HH9\\SQLEXPRESS;Initial Catalog=DBLabFinal;Integrated Security=True");
             return connection;
         }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rFSG9iUhmIBYd479xPYQNxXi0WTmc7tqi/F0XKoD45w1Q1mSK+BcaGjt7iEMFhP1dCUUSQKUvxY5TU6qJVFtHQ==",
+  "dgSpecHash": "mADSmKjenBmyxSYNkCY2dziMDlbe7QmhH1PM8rrCj6yv761MlZgCWCTT+V/ZqNYbTk7CbQn0RVIyeOOpmSx9Ag==",
   "success": true,
-  "projectFilePath": "E:\\Blazor Apps\\Lab Final\\LabFinalQ2\\DataControllers\\DataControllers.csproj",
+  "projectFilePath": "E:\\Blazor Apps\\Lab Final\\DBLABFinal\\DataControllers\\DataControllers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Qasim Nauman\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Qasim Nauman\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
